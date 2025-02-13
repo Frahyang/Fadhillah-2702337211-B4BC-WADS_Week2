@@ -5,6 +5,7 @@ Class: B4BC
 Age: 19
 Gender: Male
 Height: 173 cm
+Fingers: 10
 
 Article:
 The main differences between an article and a website are as follows:
