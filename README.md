@@ -14,3 +14,9 @@ Purpose: To inform, persuade, or entertain readers about a particular subject.
 Authorship: Usually written by a specific author or a group of authors, often credited.
 
 Link: https://www.quora.com/What-is-the-difference-between-an-article-and-a-website
+
+Article:
+Baseline
+Web Platform Baseline brings clarity to information about browser support for web platform features, providing clear information about which web platform features are ready to use in your projects today. When reading an article here on web.dev, if the features used are all part of Baseline, you can trust the level of browser compatibility.
+
+Link: https://web.dev/
